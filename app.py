@@ -22,4 +22,3 @@ if st.button('Predict'):
     result = result[2:-2]
     # 2. Display
     st.header(f"Type: {result}")
-
